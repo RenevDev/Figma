@@ -1,2 +1,2 @@
-# figma
+# Figma
 Figma - Tauri
